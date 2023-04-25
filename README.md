@@ -11,5 +11,5 @@ Có thể đổi vị trí thực hiện bước 3 và bước 4 với nhau
 - Bước 5: Trong folder "swing - client" cho chạy chương trình "ClientTransferController.java" bằng cách chọn "Run Java"
 
 /*
-Trong chương trình "ClientTransferController.java" ở dòng code thứ 28 và 44" người dùng có thể đổi địa chỉ thư mục đích trên server về địa chỉ thư mục đích mà mình mong muốn
+Trong chương trình "ClientTransferController.java" ở dòng code thứ 28 và 44 người dùng có thể đổi địa chỉ thư mục đích trên server về địa chỉ thư mục đích mà mình mong muốn
 */
