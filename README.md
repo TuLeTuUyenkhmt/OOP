@@ -1,6 +1,8 @@
 # OOP
 Bài tập lớn môn lập trình hướng đối tượng
+
 Đề tài: Xây dựng chương trình truyền tập tin sử dụng giao thức UDP và TCP
+
 Cách chạy chương trình (ví dụ trên ide visual studio code):
 - Bước 1: Tải folder TCP-UDP-protocal về máy
 - Bước 2: Mở ứng dụng visual studio code (đã được cài đặt trên máy) mở từng folder con là "swing - client" - "swing - server" - "UDPServer"
